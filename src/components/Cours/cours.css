@@ -1,0 +1,16 @@
+.blocVideo {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.video {
+  margin: 10px;
+  height: 304px;
+  width: 540px;
+  margin: 40px;
+  background: #c8c8c8;
+  border-radius: 10px;
+}

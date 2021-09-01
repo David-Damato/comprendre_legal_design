@@ -1,0 +1,90 @@
+.websiteBody {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.Frame {
+  z-index: 2;
+  width: 100%;
+  min-width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #d6e3ff;
+  display: flex;
+  flex-direction: column;
+}
+.Frame-outer {
+  pointer-events: none;
+  z-index: 2;
+}
+.titrePage {
+  color: rgba(255, 82, 146, 1);
+  font-style: normal;
+  font-family: Axiforma;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+  margin: 0;
+}
+.explicationPage {
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Axiforma;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 47px;
+  text-align: center;
+}
+.Ellipse-1-outer {
+  display: flex;
+  justify-content: center;
+  height: auto;
+  max-height: 400px;
+}
+.Ellipse-1 {
+  width: 1700px;
+  z-index: 6;
+  height: auto;
+}
+.blocTitre {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 7;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.blocTitre2 {
+  position: absolute;
+  left: 50%;
+  margin-top: 0;
+  transform: translate(-50%, -50%);
+  z-index: 7;
+  margin-top: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.blocContactezNous {
+  margin: 0;
+}
+.contactezNous {
+  width: fit-content;
+  margin-left: 37%;
+  padding: 10px;
+  margin-top: 20px;
+  min-height: 45px;
+  color: rgba(255, 255, 255, 1);
+  font-style: normal;
+  font-family: Axiforma;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  background-color: rgba(255, 82, 146, 1);
+  border-radius: 40px;
+}
