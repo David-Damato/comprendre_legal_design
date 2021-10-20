@@ -5,113 +5,15 @@
   width: 1700px;
   height: auto;
   margin-top: 0px;
-  margin-bottom: 2297px;
   min-height: 308px;
 }
-.Group-3 {
-  position: relative;
-  z-index: 7;
-  pointer-events: none;
-  margin-left: 0px;
-  width: 100%;
-  height: 134px;
-  margin-top: -2541px;
-  margin-bottom: 2407px;
-}
-.Group-3-outer {
-  pointer-events: none;
-  z-index: 7;
-  position: relative;
-  display: flex;
-  justify-content: center;
-}
-.Apprendre-le-Legal-d {
-  position: relative;
-  z-index: 8;
-  pointer-events: none;
-  margin-left: 0px;
-  width: 100%;
-  min-width: 533px;
-  margin-top: 0px;
-  margin-bottom: 78px;
-  min-height: 56px;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  justify-content: flex-start;
-  color: rgba(255, 82, 146, 1);
-  font-style: normal;
-  font-family: Axiforma;
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 47px;
-}
-.Apprendre-le-Legal-d-outer {
-  pointer-events: none;
-  z-index: 8;
-  position: relative;
-  display: flex;
-  justify-content: center;
-}
-.Lorem-ipsum-dolor-si-5 {
-  position: relative;
-  z-index: 9;
-  pointer-events: none;
-  margin-left: 0px;
-  width: 100%;
-  min-width: 727px;
-  margin-top: -54px;
-  margin-bottom: 0px;
-  min-height: 54px;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  justify-content: flex-start;
-  color: rgba(0, 0, 0, 1);
-  font-style: normal;
-  font-family: Axiforma;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 23px;
-}
-.Lorem-ipsum-dolor-si-5-outer {
-  pointer-events: none;
-  z-index: 9;
-  position: relative;
-  display: flex;
-  justify-content: center;
-}
-.Rectangle-60 {
-  position: relative;
-  z-index: 5;
-  pointer-events: none;
-  margin-left: 0px;
-  width: 1160px;
-  min-width: 1160px;
-  height: 652px;
-  margin-top: -2217px;
-  margin-bottom: 1565px;
-  min-height: 652px;
-  background-color: rgba(200, 200, 200, 1);
-}
-.Rectangle-60-outer {
-  pointer-events: none;
-  z-index: 5;
-  position: relative;
-  display: flex;
-  justify-content: center;
-}
+
 .Envie-de-faire-parti {
-  position: relative;
   z-index: 12;
   pointer-events: none;
   margin-left: 0px;
   width: 1154px;
   min-width: 1154px;
-  margin-top: -1433px;
-  margin-bottom: 1388px;
   min-height: 45px;
   text-align: center;
   display: flex;
@@ -140,8 +42,6 @@
   width: 863px;
   min-width: 863px;
   height: 75px;
-  margin-top: -1356px;
-  margin-bottom: 1281px;
   min-height: 75px;
 }
 .Group-11-outer {
@@ -177,8 +77,6 @@
   margin-left: 0px;
   width: 149px;
   min-width: 149px;
-  margin-top: 24px;
-  margin-bottom: 24px;
   min-height: 27px;
   text-align: left;
   display: flex;
@@ -207,8 +105,6 @@
   width: 520px;
   min-width: 520px;
   height: 75px;
-  margin-top: 0px;
-  margin-bottom: -75px;
   min-height: 75px;
   background-color: rgba(255, 255, 255, 1);
   border: 1px solid rgba(200, 200, 200, 1);
@@ -231,8 +127,6 @@
   width: 322px;
   min-width: 322px;
   height: 75px;
-  margin-top: -75px;
-  margin-bottom: 0px;
   min-height: 75px;
 }
 .Group-9-1-outer {
@@ -270,8 +164,6 @@
   margin-left: 0px;
   width: 274px;
   min-width: 274px;
-  margin-top: -60px;
-  margin-bottom: 15px;
   min-height: 45px;
   text-align: left;
   display: flex;
@@ -300,8 +192,6 @@
   width: 1440px;
   min-width: 1440px;
   height: 256px;
-  margin-top: -1480px;
-  margin-bottom: 973px;
   min-height: 256px;
   background-color: rgba(191, 211, 255, 1);
 }
@@ -319,8 +209,6 @@
   margin-left: 0px;
   width: 462px;
   min-width: 462px;
-  margin-top: -1149px;
-  margin-bottom: 1104px;
   min-height: 45px;
   text-align: center;
   display: flex;
@@ -369,8 +257,6 @@
   width: 92px;
   min-width: 92px;
   height: 92px;
-  margin-top: -1072px;
-  margin-bottom: 980px;
   min-height: 92px;
 }
 .Lorem-ipsum-dolor-si-2 {
@@ -380,8 +266,6 @@
   margin-left: 0px;
   width: 316px;
   min-width: 316px;
-  margin-top: -956px;
-  margin-bottom: 875px;
   min-height: 81px;
   text-align: left;
   display: flex;
@@ -410,8 +294,6 @@
   width: 1440px;
   min-width: 1440px;
   height: 289px;
-  margin-top: -795px;
-  margin-bottom: 506px;
   min-height: 289px;
   background-color: rgba(191, 211, 255, 1);
 }
@@ -429,8 +311,6 @@
   margin-left: 0px;
   width: 462px;
   min-width: 462px;
-  margin-top: -743px;
-  margin-bottom: 698px;
   min-height: 45px;
   text-align: center;
   display: flex;
@@ -458,8 +338,6 @@
   margin-left: 0px;
   width: 1159px;
   min-width: 1159px;
-  margin-top: -666px;
-  margin-bottom: 558px;
   min-height: 108px;
   text-align: left;
   display: flex;
@@ -487,8 +365,6 @@
   margin-left: 0px;
   width: 699px;
   min-width: 699px;
-  margin-top: -426px;
-  margin-bottom: 381px;
   min-height: 45px;
   text-align: center;
   display: flex;
@@ -516,8 +392,6 @@
   margin-left: 0px;
   width: 1159px;
   min-width: 1159px;
-  margin-top: -349px;
-  margin-bottom: 295px;
   min-height: 54px;
   text-align: left;
   display: flex;
@@ -546,8 +420,6 @@
   width: 365px;
   min-width: 365px;
   height: 75px;
-  margin-top: -263px;
-  margin-bottom: 188px;
   min-height: 75px;
 }
 .Group-9-outer {
@@ -601,8 +473,6 @@
   width: 1440px;
   min-width: 1440px;
   height: 108px;
-  margin-top: -108px;
-  margin-bottom: 0px;
   min-height: 108px;
   background-color: rgba(191, 211, 255, 1);
 }
@@ -611,5 +481,23 @@
   z-index: 30;
   position: relative;
   display: flex;
+  justify-content: center;
+}
+
+.blocAccueil {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.grandVideo {
+  margin: 10px;
+  height: 304px;
+  width: 540px;
+  margin: 40px;
+  background: #c8c8c8;
+  border-radius: 10px;
   justify-content: center;
 }

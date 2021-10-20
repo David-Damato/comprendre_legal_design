@@ -22,13 +22,67 @@ export default function SavoirPlus() {
           <div className="contactezNous">Contactez-nous !</div>
         </div>
       </div>
-      <div className="blocVideo">
-        <div className="video"></div>
-        <div className="video"></div>
-        <div className="video"></div>
-        <div className="video"></div>
-        <div className="video"></div>
-        <div className="video"></div>
+      <div className="blocSavoirPlus">
+        <div className="divFormation">
+          <div className="divImageFormation">
+            <img
+              className="imageFormation"
+              src="/images/Ellipse_2.png"
+              alt=""
+            />
+          </div>
+          <h3 className="titreFormation">Formation XXX sujet</h3>
+          <ul className="contenuFormation">
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+          </ul>
+        </div>
+        <div className="divFormation">
+          <div className="divImageFormation">
+            <img
+              className="imageFormation"
+              src="/images/Ellipse_2.png"
+              alt=""
+            />
+          </div>
+          <h3 className="titreFormation">Formation XXX sujet</h3>
+          <ul className="contenuFormation">
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+          </ul>
+        </div>
+        <div className="divFormation">
+          <div className="divImageFormation">
+            <img
+              className="imageFormation"
+              src="/images/Ellipse_2.png"
+              alt=""
+            />
+          </div>
+          <h3 className="titreFormation">Formation XXX sujet</h3>
+          <ul className="contenuFormation">
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+          </ul>
+        </div>
+        <div className="divFormation">
+          <div className="divImageFormation">
+            <img
+              className="imageFormation"
+              src="/images/Ellipse_2.png"
+              alt=""
+            />
+          </div>
+          <h3 className="titreFormation">Formation XXX sujet</h3>
+          <ul className="contenuFormation">
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+          </ul>
+        </div>
       </div>
     </div>
   );

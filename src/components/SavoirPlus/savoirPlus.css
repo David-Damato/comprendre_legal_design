@@ -1,16 +1,46 @@
-.blocVideo {
+.blocSavoirPlus {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 50px;
+  margin-top: 50px;
 }
 
-.video {
+.divFormation {
   margin: 10px;
   height: 304px;
   width: 540px;
   margin: 40px;
-  background: #c8c8c8;
+  background: white;
   border-radius: 10px;
+}
+
+.divImageFormation {
+  display: flex;
+  justify-content: center;
+  background: #bfd3ff;
+  border-radius: 10px 10px 0 0;
+}
+
+.imageFormation {
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+}
+
+.titreFormation {
+  text-align: center;
+  color: rgba(255, 82, 146, 1);
+}
+
+.contenuFormation {
+  display: flex;
+  flex-direction: column;
+}
+
+.contenuFormation li {
+  width: 80%;
+  margin: auto;
+  margin-top: 5px;
 }
