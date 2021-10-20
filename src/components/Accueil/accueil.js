@@ -28,136 +28,43 @@ export default function Accueil() {
         <div className="grandVideo"></div>
 
         <div className="blocMail">
-          <div className="Envie-de-faire-parti">
-            <div>Envie de faire partie des XXX abonnés à ce cours ?</div>
+          <div className="titreMail">
+            Envie de faire partie des XXX abonnés à ce cours ?
           </div>
-        </div>
-        <div className="Group-11-outer">
-          <div id="Group-11" data-name="Group 11" className="Group-11">
-            <div className="Group-10-outer">
-              <div id="Group-10" data-name="Group 10" className="Group-10">
-                <div className="Adresse-e-mail-outer">
-                  <div
-                    id="Adresse-e-mail"
-                    data-name="Adresse e-mail"
-                    className="Adresse-e-mail"
-                  >
-                    <div key="0">Adresse e-mail </div>
-                  </div>
-                </div>
-                <div className="Rectangle-61-1-outer">
-                  <div
-                    id="Rectangle-61-1"
-                    data-name="Rectangle 61"
-                    alt="Rectangle 61"
-                    className="Rectangle-61-1"
-                  ></div>
-                </div>
-              </div>
-            </div>
-            <div className="Group-9-1-outer">
-              <div id="Group-9-1" data-name="Group 9" className="Group-9-1">
-                <div className="Rectangle-61-2-outer">
-                  <div
-                    id="Rectangle-61-2"
-                    data-name="Rectangle 61"
-                    alt="Rectangle 61"
-                    className="Rectangle-61-2"
-                  ></div>
-                </div>
-                <div className="Recevoir-le-cours-outer">
-                  <div
-                    id="Recevoir-le-cours"
-                    data-name="Recevoir le cours"
-                    className="Recevoir-le-cours"
-                  >
-                    <div key="0">Recevoir le cours </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+          <div className="blocInputMail">
+            <input className="inputMail" type="email" />
+            <button className="buttonCours">Recevoir le cours</button>
           </div>
-        </div>
-        <div className="Rectangle-65-outer">
-          <div
-            id="Rectangle-65"
-            data-name="Rectangle 65"
-            alt="Rectangle 65"
-            className="Rectangle-65"
-          ></div>
         </div>
 
-        <div className="Pourquoi-suivre-ce-c-outer">
-          <div
-            id="Pourquoi-suivre-ce-c"
-            data-name="Pourquoi suivre ce cours ?"
-            className="Pourquoi-suivre-ce-c"
-          >
-            <div key="0">Pourquoi suivre ce cours ?</div>
-          </div>
-        </div>
-        <div className="imageCour">
-          <img
-            id="Ellipse-2"
-            data-name="Ellipse 2"
-            alt="Ellipse 2"
-            className="Ellipse-2"
-            src="/images/Ellipse_2.png"
-          />
-          <img
-            id="Ellipse-2"
-            data-name="Ellipse 2"
-            alt="Ellipse 3"
-            className="Ellipse-2"
-            src="/images/Ellipse_2.png"
-          />
-          <img
-            id="Ellipse-2"
-            data-name="Ellipse 2"
-            alt="Ellipse 2"
-            className="Ellipse-2"
-            src="/images/Ellipse_2.png"
-          />
-        </div>
-        <div className="textCour">
-          <div className="Lorem-ipsum-dolor-si-2-outer">
-            <div
-              id="Lorem-ipsum-dolor-si-2"
-              data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
-              className="Lorem-ipsum-dolor-si-2"
-            >
-              <div key="0">
+        <div className="blocSuivreCours">
+          <div className="titreSuivreCours">Pourquoi suivre ce cours ?</div>
+          <div className="divWrap">
+            <div className="ficheSuivreCours">
+              <img className="imageCours" src="/images/Ellipse_2.png" alt="" />
+              <div className="textCours">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt
               </div>
             </div>
-          </div>
-          <div className="Lorem-ipsum-dolor-si-2-outer">
-            <div
-              id="Lorem-ipsum-dolor-si-2"
-              data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
-              className="Lorem-ipsum-dolor-si-3"
-            >
-              <div key="0">
+            <div className="ficheSuivreCours">
+              <img className="imageCours" src="/images/Ellipse_2.png" alt="" />
+              <div className="textCours">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt
               </div>
             </div>
-          </div>
-          <div className="Lorem-ipsum-dolor-si-2-outer">
-            <div
-              id="Lorem-ipsum-dolor-si-2"
-              data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
-              className="Lorem-ipsum-dolor-si-4"
-            >
-              <div key="0">
+            <div className="ficheSuivreCours">
+              <img className="imageCours" src="/images/Ellipse_2.png" alt="" />
+              <div className="textCours">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt
               </div>
             </div>
           </div>
         </div>
-        <div className="Rectangle-66-outer">
+
+        {/*         <div className="Rectangle-66-outer">
           <div
             id="Rectangle-66"
             data-name="Rectangle 66"
@@ -241,7 +148,7 @@ export default function Accueil() {
             alt="Rectangle 64"
             className="Rectangle-64"
           ></div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
